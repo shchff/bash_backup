@@ -6,7 +6,7 @@ from the specified path and saves it to the specified path
 You need to write a string like:
 bash_backup.sh [fromPath] [extention] [toPath] [keys]
 
-[keys]:
+	[keys]:
 
   	-h, --help: describes the usage of this program
 	
