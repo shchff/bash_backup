@@ -1,5 +1,7 @@
 # bash_backup
 
+Comments are written in Russian
+
 This is help about using bash_backup
 This program creates a backup of files with certain extention 
 from the specified path and saves it to the specified path
